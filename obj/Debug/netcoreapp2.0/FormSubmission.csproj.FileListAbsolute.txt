@@ -1,0 +1,10 @@
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntermediateAssignments\FormSubmission\bin\Debug\netcoreapp2.0\FormSubmission.deps.json
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntermediateAssignments\FormSubmission\bin\Debug\netcoreapp2.0\FormSubmission.runtimeconfig.json
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntermediateAssignments\FormSubmission\bin\Debug\netcoreapp2.0\FormSubmission.runtimeconfig.dev.json
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntermediateAssignments\FormSubmission\bin\Debug\netcoreapp2.0\FormSubmission.dll
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntermediateAssignments\FormSubmission\bin\Debug\netcoreapp2.0\FormSubmission.pdb
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntermediateAssignments\FormSubmission\obj\Debug\netcoreapp2.0\FormSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntermediateAssignments\FormSubmission\obj\Debug\netcoreapp2.0\FormSubmission.AssemblyInfoInputs.cache
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntermediateAssignments\FormSubmission\obj\Debug\netcoreapp2.0\FormSubmission.AssemblyInfo.cs
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntermediateAssignments\FormSubmission\obj\Debug\netcoreapp2.0\FormSubmission.dll
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntermediateAssignments\FormSubmission\obj\Debug\netcoreapp2.0\FormSubmission.pdb
